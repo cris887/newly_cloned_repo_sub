@@ -1,0 +1,3 @@
+[submodule "submodule_repo"]
+	path = submodule_repo
+	url = http://github.com/cris887/newly_cloned_repo.git
